@@ -13,7 +13,7 @@ int main()
 	getline(cin, name);
 	cout << "Enter your age: ";
 	cin >> age;
-	cin.ignore(); // when we hit the "Enter" button, it actually could be determind as a charecter, so after the user
+	cin.ignore(); // when we hit the "Enter" button, it actually could be considered as a charecter, so after the user
 	              // type the first age and hit "Enter", there is a character '↵' right after the input number. 
 	              // but cin >> age will just take the number and assign into the integer variable "age", the '↵' is 
 		      // still at the end of that line. that's the reason the next question ask for friend's name will just 

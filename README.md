@@ -8,7 +8,7 @@ Professor: Kimberly Hermans
 ## Lecture & lab time ##
 Lecture: Tuesday  4:00 – 5:15 PM, CS-102A
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursday 4:25 - 5-15 PM, CS-102A </br>
-<br>Lab: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursday 5:30 - 7:20 PM, CS-104 Teaching Lab<br>
+<br>Lab: Thursday 5:30 - 7:20 PM, CS-104 Teaching Lab<br>
 
 ## SI session meeting time ##
 Mo/We 1:00 – 2:15 PM, ULC (second floor of Pollak library)I will be here at least 20 ~ 15 minutes before the session start. You can always find me next to the window.

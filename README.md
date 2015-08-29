@@ -1,6 +1,7 @@
 #Fall - 2015 - CPSC 121-09 SI sessions
-Professor: Kimberly Hermans
-SI leader: Chi ( Andrew )    <br>Email: chianchen@csu.fullerton.edu</br>
+Professor: Kimberly Hermans &nbsp;&nbsp;Email: khermans@fullerton.edu
+<br>SI leader: Chi (Andrew)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: chianchen@csu.fullerton.edu </br>
 
 
 ## Lecture & lab time ##

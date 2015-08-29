@@ -17,7 +17,7 @@ Mo/We 1:00 – 2:15 PM, ULC (second floor of Pollak library), I will be there at
 I will also attend every lecture to make sure the content which professor go through. Then we will review all the topics in our SI session meeting. I may give you simple projects at the end of the meeting to confirm the understanding of your lecture. 
 
 ## Midterm & Final week ##
-The SI session will not be canceled on midterm or final week. I will be here to answer your questions or help you to prepare the exam.
+The SI session will not be canceled on midterm or final week. I am willing to answer your questions or help you to prepare the exam.
 
 ## Group project ##
-I will upload and update our worksheet every weekend. This will include the notes from class and some practice projects.
+New information will be uploaded and updated every weekend include the notes from class and practice projects with solution. It will be very helpful to check the github every week and join the SI session on Monday and Wednesday.

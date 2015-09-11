@@ -7,7 +7,7 @@ Professor: Kimberly Hermans
 
 ## Lecture & lab time ##
 Lecture: Tuesday  4:00 – 5:15 PM, CS-102A
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursday 4:25 - 5-15 PM, CS-102A </br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursday 4:00 – 5:15 PM, CS-102A </br>
 <br>Lab: Thursday 5:00 - 6:50 PM, CS-104 Teaching Lab<br>
 
 ## SI session meeting time ##

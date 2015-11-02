@@ -11,7 +11,8 @@ Lecture: Tuesday  4:00 – 5:15 PM, CS-102A
 <br>Lab: Thursday 5:00 - 6:50 PM, CS-104 Teaching Lab<br>
 
 ## SI session meeting time ##
-Mo/We 1:00 – 2:15 PM, ULC (second floor of Pollak library), I will be there at least 15 ~ 20 minutes before the session start. You can always find me next to the window.
+Monday 1:00 - 2:15 PM. in CS 506
+<br>Wednesday 1:00 - 2:15 PM. in ULC (second floor of Pollak library), I will be there at least 15 ~ 20 minutes before the session start. You can always find me next to the window. <br>
 
 ## Content of SI session ##
 I will also attend every lecture to make sure the content which professor go through. Then we will review all the topics in our SI session meeting. I may give you simple projects at the end of the meeting to confirm the understanding of your lecture. 

@@ -1,0 +1,8 @@
+Name	Hight	Score(avg)
+James	6.8	28.5
+Bryant	6.6	30.1
+Iverson	6.1	32.5
+T-Mac	6.6	33.0
+Bowen	6.5	8.2
+O'neal	7.3	30.7
+Paul	6.2	23.5
